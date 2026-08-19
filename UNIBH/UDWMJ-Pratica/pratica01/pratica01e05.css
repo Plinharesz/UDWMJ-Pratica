@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  padding: 40px;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+  color: #003399; 
+  text-align: center;
+}
+
+.paragrafo-1 {
+  color: #1a5276; 
+}
+
+.paragrafo-2 {
+  color: #2e4053; 
+}
+
+.paragrafo-3 {
+  color: #117a65; 
+}
