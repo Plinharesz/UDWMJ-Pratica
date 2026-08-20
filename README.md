@@ -1,10 +1,10 @@
-# 💻 Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)
+# Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)
 
 Repositório unificado para versionamento, documentação e entrega de todas as atividades desenvolvidas ao longo do semestre letivo — incluindo práticas laboratoriais em sala de aula, exercícios avaliativos e listas complementares.
 
 ---
 
-## 👨‍🏫 Contexto Acadêmico
+## Contexto Acadêmico
 
 * **Instituição:** Centro Universitário de Belo Horizonte (UniBH)
 * **Disciplina:** Usabilidade, Desenvolvimento Web, Mobile e Jogos
@@ -14,7 +14,7 @@ Repositório unificado para versionamento, documentação e entrega de todas as 
 
 ---
 
-## 🎯 Organização do Repositório
+## Organização do Repositório
 
 Com o objetivo de manter a rastreabilidade e evitar a dispersão de múltiplos repositórios pequenos, **todas as práticas e listas do semestre estão centralizadas aqui**. 
 
