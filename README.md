@@ -9,7 +9,7 @@ Repositório unificado para versionamento, documentação e entrega de todas as 
 * **Instituição:** Centro Universitário de Belo Horizonte (UniBH)
 * **Disciplina:** Usabilidade, Desenvolvimento Web, Mobile e Jogos
 * **Docente:** Daniel Henrique Matos de Paiva
-* **Aluno:** Pedro Ribeiro Linhares
+* **Aluno:** Pedro Ribeiro Linhares - 12418821
 * **Período:** 6º Período — Engenharia de Software
 
 ---
