@@ -1,0 +1,38 @@
+#soma,
+#subtracao,
+#multiplicacao,
+#divisao,
+#resto {
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 05.rem;
+    background-color: aliceblue;
+}
+
+#soma {
+    color: green;
+}
+
+#subtracao {
+    color: red;
+}
+
+#multiplicacao {
+    color: blue;
+}
+
+#divisao {
+    color: brown;
+}
+
+#resto {
+    color: beige;
+}
+
+.numero {
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.5rem;
+    color: black;
+    background-color: beige;
+}
