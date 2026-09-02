@@ -1,0 +1,117 @@
+/* CONFIGURAÇÕES GERAIS (Atendendo ao padding do Ex 3 e reset básico) */
+body {
+    padding: 20px; 
+    font-family: Arial, sans-serif;
+}
+
+hr {
+    margin: 40px 0;
+    border: 0;
+    border-top: 1px solid #ccc;
+}
+
+/* =========================================
+   EXERCÍCIO 1: Cartão de Visitas Digital
+========================================= */
+.cartao-visita {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 30px;
+}
+.cartao-visita a {
+    color: #3498db;
+    text-decoration: none;
+}
+.cartao-visita ul {
+    list-style: none;
+    padding: 0;
+}
+.cartao-visita li {
+    display: inline;
+    margin: 0 10px;
+}
+
+/* =========================================
+   EXERCÍCIO 2: Perfil de Personagem
+========================================= */
+.personagem {
+    font-family: 'Courier New', Courier, monospace;
+}
+.personagem img {
+    width: 200px; /* Largura fixa */
+    border-radius: 15px; /* Borda arredondada */
+}
+
+/* =========================================
+   EXERCÍCIO 3: Receita Simples
+========================================= */
+.lista-ingredientes, .lista-preparo {
+    color: #e67e22; /* Cor diferente dos títulos */
+}
+
+/* =========================================
+   EXERCÍCIO 4: Botão Estilizado
+========================================= */
+.botao-interativo {
+    text-decoration: none; /* Remove sublinhado */
+    background-color: #27ae60;
+    color: white;
+    padding: 15px 25px; /* Espaçamento interno */
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    transition: 0.3s;
+}
+.botao-interativo:hover {
+    background-color: #1e8449; /* Muda cor no hover */
+}
+
+/* =========================================
+   EXERCÍCIO 5: Bloco de Destaque
+========================================= */
+.card-noticia {
+    background-color: #f9f9f9; /* Cor de fundo diferente */
+    border: 1px solid #dcdcdc; /* Borda fina */
+    border-radius: 8px; /* Cantos arredondados */
+    max-width: 400px; /* Largura máxima */
+    padding: 15px;
+}
+.data-autor {
+    font-size: 0.85em;
+    color: #7f8c8d;
+}
+
+/* =========================================
+   EXERCÍCIO 6: Tabela de Preços Simples
+========================================= */
+table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #bdc3c7; /* Bordas nas células */
+}
+th, td {
+    padding: 10px;
+    text-align: center; /* Alinhamento centralizado */
+}
+th {
+    background-color: #34495e; /* Fundo do cabeçalho */
+    color: white;
+}
+
+/* =========================================
+   EXERCÍCIO 7: Rodapé de Site (Footer)
+========================================= */
+footer {
+    background-color: #1a1a1a; /* Tom escuro */
+    color: #ffffff; /* Texto claro */
+    text-align: center; /* Ajuste para o centro */
+    margin-top: 50px; /* Espaçamento superior */
+    padding: 20px;
+}
+footer a {
+    color: #3498db;
+}
